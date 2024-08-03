@@ -12,9 +12,9 @@ Chirpster is a Twitter-like web application built using Django. Authenticated us
 ## Project Structure
 
 ```
-Chirpster/
+xero/
 │
-├── chirpster/
+├── xero/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
